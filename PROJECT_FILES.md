@@ -1,10 +1,15 @@
 # Crowdfunding_Project
 
-Excel File :- https://docs.google.com/spreadsheets/d/1sPYeR5L2pLB3LzWs7sS8PYsdU0M6vzrM/edit?usp=drive_link&ouid=108713021304314927776&rtpof=true&sd=true
+Excel File :- https://docs.google.com/spreadsheets/d/1sPYeR5L2pLB3LzWs7sS8PYsdU0M6vzrM/edit?usp=sharing&ouid=108713021304314927776&rtpof=true&sd=true
+
 MYSQL File :- https://drive.google.com/file/d/1bDwkGptw9h8eblSe9PuYv-jQxS3oy10W/view?usp=drive_link
+
 Tableau File :- https://drive.google.com/file/d/1WW-pBA_JaO2zqYURF2JaYhisiX1XGSRz/view?usp=drive_link
+
 Power BI File :- https://drive.google.com/file/d/10ZC3ZdMFdc5JP0HdBtjAWKT2BkVCnlJq/view?usp=drive_link
+
 Final PPT :- https://docs.google.com/presentation/d/1tm2NwLpYu5XWxU4sWJXeGvYuIkicGMrl/edit?usp=drive_link&ouid=108713021304314927776&rtpof=true&sd=true
+
 ""Due to GitHub’s file size limits, large datasets and dashboards are stored externally""
 
 "Crowdfunding Description"
